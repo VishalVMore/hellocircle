@@ -1,6 +1,3 @@
 deployment:
-yment:
-prod:
-branch: master
 prod:
 branch: master
